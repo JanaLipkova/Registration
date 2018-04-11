@@ -1,6 +1,6 @@
 # Image Registrations Using ANTs Library
-References: Jana Lipkova (jana.lipkova@tum.de)
 This code provides simple scripts for image registrations using ANTs library, together with examples.
+References: Jana Lipkova (jana.lipkova@tum.de)
  
 ## 1) Install ANTs
 ```
@@ -11,7 +11,7 @@ ccmake ../ANTs
 make -j 4
 ```
 
-### 1.1) Set the path to the installed library by updating your ~/.profile or ~/.basrc file with the following lines, where the first line contains path to YOUR library:
+ *Set the path to the installed library by updating your ~/.profile or ~/.basrc file with the following lines, where the first line contains path to YOUR library:*
 ```
 export ANTSPATH=/home/jana/Work/Ants/stnava-ANTs-a430c38/antsbin/bin/
 export PATH=$PATH:$ANTSPATH
