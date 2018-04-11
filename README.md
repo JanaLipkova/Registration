@@ -22,8 +22,8 @@ For more installaiton info see: http://sourceforge.net/projects/advants/files/AN
 
 ## 2) Registrations scripts
 Folder source contains scripts for registration:
- 1. scripts with word Registration in the name perfom specific registration (for now only non-deformable registrations scripts, i.e. registrations that transform the whole image). The transformation matrix is stored as output in the .mat file
- 2. scripts with word Transformation apply existing transformation from the mat file on the specified images
+ * scripts with word Registration in the name perfom specific registration (for now only non-deformable registrations scripts, i.e. registrations that transform the whole image). The transformation matrix is stored as output in the .mat file
+ * scripts with word Transformation apply existing transformation from the mat file on the specified images
 
 
 **Syntax of the scripts:**
