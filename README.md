@@ -39,7 +39,7 @@ Folder example contains three nifty files.
 ```
 ./affineRegistration.sh atlas.nii t1.nii atlas2t1.nii
 ```
-![alt text](figures/registration.pdf)
+![alt text](figures/registration.png)
 
 2. It will create also mat file with corresponding transformation. The transformation mask can be used to map the atlas brain mask atlas_mask.nii into the t1.nii:
 ```
