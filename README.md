@@ -45,4 +45,6 @@ Folder example contains three nifty files.
 ```
 ./applyTransformation.sh atlas_mask.nii t1.nii atlas2t1.nii0GenericAffine.mat mask2t1.nii
 ```
+![alt text](figures/transformation.png)
+
  :panda_face:
