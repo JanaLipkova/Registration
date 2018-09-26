@@ -4,10 +4,10 @@
 #-----------------------
 m_in="$1"
 f_in="$2"
+out_this="$3"
 
 imgs="$f_in, $m_in"
 dim=3
-out_this="$3"
 
 echo "Calculating affine registeration between:"
 echo fixed:  ${f_in}
