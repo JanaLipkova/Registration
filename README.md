@@ -30,7 +30,7 @@ Folder source contains scripts for registration:
 **Syntax of the scripts:**
 ```
 ./affineRegistrations.sh moving_image.nii fixed_image.nii output_image.nii
-./applyTransformation.sh moving_image.nii fixed_image.nii transformationMatrix.mat output_image.nii
+./applyTransformation.sh moving_image.nii fixed_image.nii output_image.nii transformationMatrix.mat
 ```
 
 ## 3) Example
