@@ -43,7 +43,7 @@ Folder example contains three nifty files.
 
 2. It will create also mat file with corresponding transformation. The transformation mask can be used to map the atlas brain mask atlas_mask.nii into the t1.nii:
 ```
-./applyTransformation.sh atlas_mask.nii t1.nii atlas2t1.nii0GenericAffine.mat mask2t1.nii
+./applyTransformation.sh atlas_mask.nii t1.nii mask2t1.nii atlas2t1.nii0GenericAffine.mat
 ```
 ![alt text](figures/transformation.png)
 
